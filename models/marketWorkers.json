@@ -1,0 +1,27 @@
+[
+    {
+        "marketID": 1,
+        "workers": [
+            {
+                "id": 1,
+                "name": "Aziz",
+                "wokrType": "Kassir"
+            }
+        ]
+    },
+    {
+        "marketID": 2,
+        "workers": [
+            {
+                "id": 1,
+                "name": "Aziz",
+                "wokrType": "Kassir"
+            },
+            {
+                "id": 2,
+                "name": "Laziz",
+                "wokrType": "Qorovul"
+            }
+        ]
+    }
+]

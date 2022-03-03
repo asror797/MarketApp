@@ -1,0 +1,32 @@
+[
+    {
+        "marketID": 1,
+        "branches": [
+            {
+                "id": 1,
+                "name": "Makro yunusobod"
+            },
+            {
+                "id": 2,
+                "name": "aliexpress Uzbeksitan"
+            },
+            {
+                "id": 3,
+                "name": "aliexpress Uzbeksitan"
+            }
+        ]
+    },
+    {
+        "marketID": 2,
+        "branches": [
+            {
+                "id": 1,
+                "name": "Korzinka yunusobod"
+            },
+            {
+                "id": 2,
+                "name": "Korzinka chilonzor"
+            }
+        ]
+    }
+]
